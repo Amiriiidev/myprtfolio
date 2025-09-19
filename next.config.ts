@@ -1,8 +1,6 @@
 /**
  * @type {import('next').NextConfig}
- */ module.exports = {
-  basePath: "/myprtfolio",
-};
+ */
 const nextConfig = {
   output: "export",
 
