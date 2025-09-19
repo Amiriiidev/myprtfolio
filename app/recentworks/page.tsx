@@ -47,7 +47,7 @@ export default function Page() {
               "https://amiriiidev.github.io/moviesite-design-with-tailwind/"
             }
           >
-            <div className="bg-[url(/myprtfolio/proimg/moviesite.png)] w-[445px] h-[300px] bg-center bg-cover"></div>
+            <div className="bg-[url(/proimg/moviesite.png)] w-[445px] h-[300px] bg-center bg-cover"></div>
           </Link>
           <p className="text-[#808080] text-lg font-mono">
             A website built with Tailwind, created solely to demonstrate
