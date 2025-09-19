@@ -16,7 +16,7 @@ export default function Page() {
       <div className="  w-[1100px]  mt-10 grid grid-cols-2  gap-10 m-auto justify-items-center ">
         <div className="  overflow-auto scrollbar-hidden  w-[445px] h-[400px] ">
           <Link href={"https://amiriiidev.github.io/Cloud-Error-404-page/"}>
-            <div className="bg-[url(/myprtfolio/proimg/404error.png)] w-[445px] h-[300px] bg-center bg-cover"></div>
+            <div className="bg-[url(/proimg/404error.png)] w-[445px] h-[300px] bg-center bg-cover"></div>
           </Link>
           <p className="text-[#808080] text-lg font-mono">
             A 404 error page created entirely using HTML and CSS.
@@ -24,7 +24,7 @@ export default function Page() {
         </div>
         <div className="  overflow-auto scrollbar-hidden  w-[445px] h-[400px] ">
           <Link href={"https://amiriiidev.github.io/login_page-html-css/"}>
-            <div className="bg-[url(/myprtfolio/proimg/login.png)] w-[445px] h-[300px] bg-center bg-cover"></div>
+            <div className="bg-[url(/proimg/login.png)] w-[445px] h-[300px] bg-center bg-cover"></div>
           </Link>
           <p className="text-[#808080] text-lg font-mono">
             A login page designed entirely using HTML and CSS.
@@ -32,7 +32,7 @@ export default function Page() {
         </div>
         <div className="  overflow-auto scrollbar-hidden  w-[445px] h-[400px] ">
           <Link href={"https://amiriiidev.github.io/to-do-app/"}>
-            <div className="bg-[url(/myprtfolio/proimg/todoapp.png)] w-[445px] h-[300px] bg-center bg-cover"></div>
+            <div className="bg-[url(/proimg/todoapp.png)] w-[445px] h-[300px] bg-center bg-cover"></div>
           </Link>
           <p className="text-[#808080] text-lg font-mono">
             A simple To-Do app where you can add tasks you want to do, and once
@@ -57,7 +57,7 @@ export default function Page() {
         </div>
         <div className="  overflow-auto scrollbar-hidden  w-[445px] h-[400px] ">
           <Link href={"https://amiriiidev.github.io/little-store-site/"}>
-            <div className="bg-[url(/myprtfolio/proimg/digitize.png)] w-[445px] h-[300px] bg-center bg-cover"></div>
+            <div className="bg-[url(/proimg/digitize.png)] w-[445px] h-[300px] bg-center bg-cover"></div>
           </Link>
           <p className="text-[#808080] text-lg font-mono">
             A small e-commerce store using fake data, built with various React
@@ -68,7 +68,7 @@ export default function Page() {
         </div>
         <div className="  overflow-auto scrollbar-hidden  w-[445px] h-[400px] ">
           <Link href={"https://amiriiidev.github.io/weather-app-pwa/"}>
-            <div className="bg-[url(/myprtfolio/proimg/weatherapp.png)] w-[445px] h-[300px] bg-center bg-cover"></div>
+            <div className="bg-[url(/proimg/weatherapp.png)] w-[445px] h-[300px] bg-center bg-cover"></div>
           </Link>
           <p className="text-[#808080] text-lg font-mono">
             A weather app where you simply enter the desired city name and wait
